@@ -27,4 +27,4 @@ const getLongestSubstring = (s, k) => {
     return longestSubstring
 }
 
-console.log(getLongestSubstring('abcbahllhalr', 3))
+console.log(getLongestSubstring('abcbahllhalrlrlrlr', 2))
